@@ -3,7 +3,7 @@
 //suma es sum
 // otra modificacion con mi nombre,...
 // otra modificacion con mi nombre,...
-// otra modificacion con mi nombre,...
+// otra modificacion con mi nombre,...David
 using namespace std;
 typedef int tipo_num;
 int main()
@@ -17,4 +17,5 @@ int main()
     //cout << "Hello world!" << endl;
     //return 0; 
     //1Esta es una edicion en master
+	//2Esta es una edicion en master
 }
