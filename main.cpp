@@ -14,6 +14,7 @@ int main()
         sum = num1 + num2;
         cout<<"la suma es "<<sum<<"\n";
     }
-    cout << "Hello world!" << endl;
-    return 0;
+    //cout << "Hello world!" << endl;
+    //return 0; 
+    //1Esta es una edicion en master
 }
