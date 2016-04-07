@@ -1,6 +1,9 @@
 #include <iostream>
 //numero en ingles es number
 //suma es sum
+// otra modificacion con mi nombre,...
+// otra modificacion con mi nombre,...
+// otra modificacion con mi nombre,...
 using namespace std;
 typedef int tipo_num;
 int main()
